@@ -1,5 +1,3 @@
-
-
 const Footer =()=>{
     
     return <>
@@ -44,7 +42,7 @@ const Footer =()=>{
         <hr/>
 
         <div className="copyright">
-            © 2023 www.myntra.com. All rights reserved.
+            © 2023 www.deepakpandey.me.All rights reserved.
         </div>
         </footer>
     

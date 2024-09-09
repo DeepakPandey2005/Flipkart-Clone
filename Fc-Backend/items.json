@@ -1,0 +1,252 @@
+{
+  "items": [
+    
+      {
+        "id": "018",
+        "image": "images/18.jpg",
+        "company": "Raymond",
+        "item_name": "Black-Kurta & pajama",
+        "original_price": 9999,
+        "current_price": 8000,
+        "discount_percentage":18,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 5.0,
+          "count": 9400
+        }
+      },
+    
+      
+      {
+        "id": "013",
+        "image": "images/13.jpg",
+        "company": "Raymond",
+        "item_name": "Pure Cotton oversize-shirt",
+        "original_price": 2045,
+        "current_price": 1606,
+        "discount_percentage": 23,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 3.5,
+          "count": 2400
+        }
+      },
+          {
+        "id": "010",
+        "image": "images/10.jpg",
+        "company": "Fast-track",
+        "item_name": "silk gym-outfit",
+        "original_price": 999,
+        "current_price": 650,
+        "discount_percentage": 27,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 3400
+        }
+      },
+    
+      {
+        "id": "011",
+        "image": "images/11.jpg",
+        "company": "Louis Vuiton",
+        "item_name": "White-hoodie",
+        "original_price": 3045,
+        "current_price": 2500,
+        "discount_percentage": 15,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.7,
+          "count":9140
+        }
+      },
+    
+      {
+        "id": "012",
+        "image": "images/12.jpg",
+        "company": "Titan",
+        "item_name": "Regalia premium ",
+        "original_price": 14999,
+        "current_price": 9999,
+        "discount_percentage": 19,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.9,
+          "count": 14400
+        }
+      },
+    
+    
+      {
+        "id": "014",
+        "image": "images/14.jpg",
+        "company": "nykaa",
+        "item_name": " red Top",
+        "original_price": 1045,
+        "current_price": 606,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.2,
+          "count": 4400
+        }
+      },
+    
+      {
+        "id": "015",
+        "image": "images/15.jpg",
+        "company": "Dior",
+        "item_name": "sunny outfit",
+        "original_price": 1045,
+        "current_price": 599,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 3.5,
+          "count": 1400
+        }
+      },
+    
+      {
+        "id": "001",
+        "image": "images/1.jpg",
+        "company": "Carlton London",
+        "item_name": "Rhodium-Plated CZ Floral Studs",
+        "original_price": 1045,
+        "current_price": 606,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.5,
+          "count": 1400
+        }
+      },{
+        "id": "009",
+        "image": "images/9.jpg",
+        "company": "Zara ",
+        "item_name": "Womens-Plated foot-wear",
+        "original_price": 2045,
+        "current_price": 1606,
+        "discount_percentage": 30,
+        "return_period": 15,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 3.5,
+          "count": 4500
+        }
+      },
+    
+      {
+        "id": "002",
+        "image": "images/2.jpg",
+        "company": "CUKOO",
+        "item_name": "Women Padded Halter Neck Swimming Dress",
+        "original_price": 2599,
+        "current_price": 1507,
+        "discount_percentage": 42,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.3,
+          "count": 24
+        }
+      },
+      {
+        "id": "003",
+        "image": "images/3.jpg",
+        "company": "NUEVOSDAMAS",
+        "item_name": "Women Red & White Printed A-Line Knee-Length Skirts",
+        "original_price": 1599,
+        "current_price": 495,
+        "discount_percentage": 69,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.1,
+          "count": 249
+        }
+      },
+      {
+        "id": "004",
+        "image": "images/4.jpg",
+        "company": "ADIDAS",
+        "item_name": "Indian Cricket ODI Jersey",
+        "original_price": 999,
+        "current_price": 999,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 5,
+          "count": 10
+        }
+      },
+      {
+        "id": "005",
+        "image": "images/5.jpg",
+        "company": "Roadster",
+        "item_name": "Pure Cotton T-shirt",
+        "original_price": 1399,
+        "current_price": 489,
+        "discount_percentage": 65,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.2,
+          "count": 3500
+        }
+      },
+      {
+        "id": "006",
+        "image": "images/6.jpg",
+        "company": "Nike",
+        "item_name": "Men ReactX Running Shoes",
+        "original_price": 14995,
+        "current_price": 14995,
+        "discount_percentage": 0,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 0,
+          "count": 0
+        }
+      },
+      {
+        "id": "007",
+        "image": "images/7.jpg",
+        "company": "The Indian Garage Co",
+        "item_name": "Men Slim Fit Regular Shorts",
+        "original_price": 1599,
+        "current_price": 639,
+        "discount_percentage": 60,
+        "rating": {
+          "stars": 4.2,
+          "count": 388
+        }
+      },
+      {
+        "id": "008",
+        "image": "images/8.jpg",
+        "company": "Nivea",
+        "item_name": "Men Fresh Deodrant 150ml",
+        "original_price": 285,
+        "current_price": 142,
+        "discount_percentage": 50,
+        "return_period": 14,
+        "delivery_date": "9 Sep 2024",
+        "rating": {
+          "stars": 4.2,
+          "count": 5200
+        }
+      }
+    ]
+  
+}

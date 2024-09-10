@@ -1,8 +1,7 @@
 const About = () => {
 
   return <>
-    <section id="about" class="about-section">
-      <div class="container">
+      <div class="container my-5">
         <h2>About Us</h2>
         <p>Welcome to flip-clone, your number one source for all things [product type]. We're dedicated to giving you the very best of [product type], with a focus on [three qualities you aim for - e.g., dependability, customer service, and uniqueness].</p>
 
@@ -20,8 +19,7 @@ const About = () => {
         <h3>Contact Us</h3>
         <p>If you have any questions or feedback, feel free to reach out to us at email address or visit our contact page/link].</p>
       </div>
-    </section>
-
+      <hr />
   </>
 }
 export default About

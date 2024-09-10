@@ -1,6 +1,6 @@
 const Feedback = () => {
 
-  return <div style={{ width: "50%", margin: "auto", padding: "100px", border: "1px solid black", marginTop: "20px" }}>
+  return <div className="container my-5">
 
     <form className="row g-3 needs-validation" novalidate>
       <div className="col-md-4 position-relative">
@@ -55,6 +55,7 @@ const Feedback = () => {
         <button className="btn btn-primary" type="submit">Submit Feedback</button>
       </div>
     </form>
+    <hr />
   </div>
 }
 export default Feedback

@@ -1,6 +1,7 @@
 const Login = () => {
 
-  return <div style={{ width: "50%", margin: "auto", padding: "100px", border: "1px solid black", marginTop: "20px", backgroundColor: "skyblue" }}>
+  return <div className="container my-5">
+    <hr />
     <form className="row g-3">
       <div className="col-md-6">
         <label for="inputEmail4" className="form-label">Email</label>
@@ -33,6 +34,7 @@ const Login = () => {
         <button type="submit" className="btn btn-success">Sign in</button>
       </div>
     </form>
+    <hr />
   </div>
 }
 export default Login
